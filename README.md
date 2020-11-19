@@ -1,6 +1,3 @@
-# snake
-snake game!!!!!!!!!!!!!
-# use this link to play
-
-how to play:
-copy link, open repl, and run
+# repo for games
+there will be many games here
+snake game!!!!
